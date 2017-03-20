@@ -30,6 +30,7 @@ creating a file and wrting credentials to it. But when we are doing the real phi
 capable of sending emails.So when hosting the phishing website you can go with any of those methods. 
 
 
+
 This is my blog post about phishing.Read and follow instructions.
 http://securityvibes.blogspot.com/2017/03/phising-on-facebook.html
 
